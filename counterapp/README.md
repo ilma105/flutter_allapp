@@ -1,6 +1,9 @@
 # counterapp
 
 A new Flutter project.
+![img1!](counter/1.png)
+![img1!](counter/2.png)
+![img1!](counter/3.png)
 
 ## Getting Started
 
