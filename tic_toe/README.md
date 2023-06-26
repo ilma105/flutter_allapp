@@ -1,6 +1,11 @@
 # tic_toe
 
-A new Flutter project.
+A new Flutter project.<br>
+Screenshots
+| Image 1 | Image 2 | Image 3 |
+|---------|---------|---------|
+| ![img1](tic/1.png) | ![img2](tic/2.png) | ![img3](tic/3.png) |
+
 
 ## Getting Started
 
