@@ -1,6 +1,12 @@
 # modelclass
 
 A new Flutter project.
+<br>
+Screenshots
+| Image 1 | Image 2 | Image 3 |
+|---------|---------|---------|
+| ![img1](twitter/1.png) | ![img2](twitter/2.png) | ![img3](twitter/3.png) |
+
 
 ## Getting Started
 
