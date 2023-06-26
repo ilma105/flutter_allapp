@@ -1,6 +1,12 @@
 # tap_battle
 
-A new Flutter project.
+A new Flutter project.<br>
+Screenshots
+| Image 1 | Image 2 | Image 3 |
+|---------|---------|---------|
+| ![img1](tap/1.png) | ![img2](tap/2.png) | ![img3](tap/3.png) |
+
+
 
 ## Getting Started
 
