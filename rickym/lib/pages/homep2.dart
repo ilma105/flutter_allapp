@@ -42,7 +42,7 @@ final List<Color> colors = [
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
 
-              MyTitle(text:"Rick",color:Color.fromARGB(255, 149, 37, 6)),
+              MyTitle(text:"Ricky",color:Color.fromARGB(255, 149, 37, 6)),
               Expanded(
                 flex: 12,
                 child: Container(

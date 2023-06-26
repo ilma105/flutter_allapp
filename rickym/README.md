@@ -1,6 +1,12 @@
 # rickym
 
-A new Flutter project.
+A new Flutter project.<br>
+Screenshots
+| Image 1 | Image 2 | Image 3 | Image 4 |
+|---------|---------|---------|---------|
+| ![img1](ricky/1.png) | ![img2](ricky/2.png) | ![img3](ricky/3.png) | ![img4](ricky/4.png) |
+
+
 
 ## Getting Started
 
