@@ -1,6 +1,12 @@
 # pokemon
 
-A new Flutter project.
+A new Flutter project.<br>
+Screenshots
+| Image 1 | Image 2 | Image 3 | Image 4 |
+|---------|---------|---------|---------|
+| ![img1](pokemon/1.png) | ![img2](pokemon/2.png) | ![img3](pokemon/3.png) | ![img4](pokemon/4.png) |
+
+
 
 ## Getting Started
 
